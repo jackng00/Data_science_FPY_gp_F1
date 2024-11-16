@@ -1,6 +1,5 @@
 # Data_science_FPY_gp_F1
 
-## Description A brief description of your project. 
 ## Installation Step-by-step 
 
 ### 1. run 'python import_model.py'
