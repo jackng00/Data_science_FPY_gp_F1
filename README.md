@@ -11,3 +11,5 @@
 ### 4. start React frontend by run 'npm start' in folder test-app
 
 ### Remark: the library version can refer to the requirement.txt
+
+### Demo videos: https://drive.google.com/drive/folders/1nvOlVHQ-y_zS1dceK2A-A32gFFADwzEe
