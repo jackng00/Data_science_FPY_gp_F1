@@ -8,7 +8,7 @@
 
 ### 3. start python backend by run 'python server.py'
 
-### 4. start React frontend by run 'npm start' in folder test-app
+### 4. start React frontend by run 'npm start' in folder app
 
 ### Remark: the library version can refer to the requirement.txt
 
