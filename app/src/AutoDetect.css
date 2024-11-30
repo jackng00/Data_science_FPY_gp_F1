@@ -1,0 +1,87 @@
+.drone-view-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Adjust height as needed */
+  padding: 20px;
+}
+
+.controller-left, .controller-right {
+  display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.drone-view {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0; /* Placeholder color for the drone view */
+  height: 70vh; /* Adjust height as needed */
+  width: 800px;
+  margin: 0 20px;
+}
+
+.toggle-button {
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff; /* Button background color */
+  color: #fff; /* Button text color */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.toggle-button:hover {
+  background-color: #0056b3; /* Button hover background color */
+}
+
+.round-button {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #007bff; /* Button background color */
+  color: #fff; /* Button text color */
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.round-button:hover {
+  background-color: #0056b3; /* Button hover background color */
+}
+
+.rounded-container {
+  background-color: #f8f9fa; /* Container background color */
+  border-radius: 15px; /* Rounded corner radius */
+  padding: 20px;
+  margin: 20px;
+  border: 5px solid orange;
+}
+
+.display-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.upload-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  height: 50vh;
+  text-align: center;
+}
+
+.action-word{
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+}
