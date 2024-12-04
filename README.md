@@ -18,5 +18,5 @@
 
 ### 2. Go to folder 'exit_autonomous' and start python by run 'python main_360_final.py'
 
-### Demo videos of all applications: https://drive.google.com/drive/folders/1nvOlVHQ-y_zS1dceK2A-A32gFFADwzEe
+### Demo videos of all applications: https://drive.google.com/drive/folders/1XhE0dAV9l_06-uYQir8MYV4mmwz2Ncvv
 
